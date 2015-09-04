@@ -2,7 +2,7 @@
 A Meteor app for personal snippets
 
 #Application created with
-Meteor---------------------
+Meteor-->
 Meteor packages:
 accounts-password
 ian:accountsui-bootstrap-3
